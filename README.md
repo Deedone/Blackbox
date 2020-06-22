@@ -23,6 +23,6 @@ sudo make install
 
 
 # Screenshots
-![scrot.png]()
+![](scrot.png)
 _Black bar in the subtitles area_
 
